@@ -306,7 +306,7 @@ Co-designed the multimodal architecture (frozen CLIP/Whisper backbones with PEFT
 <div align="center">
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=aneeb-ahmad&show_icons=true&hide_border=true&title_color=6C63FF&icon_color=00D9FF&text_color=C9D1D9&bg_color=0D1117&count_private=true&include_all_commits=true&ring_color=6C63FF" alt="GitHub Stats" />&nbsp;&nbsp;
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=aneeb-ahmad&hide_border=true&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=555555&background=0D1117" alt="GitHub Streak" />
+<img height="180" src="https://streak-stats.demolab.com?user=aneeb-ahmad&hide_border=true&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=555555&background=0D1117" alt="GitHub Streak" />
 
 <br/><br/>
 
