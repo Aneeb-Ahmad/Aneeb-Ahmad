@@ -248,8 +248,7 @@ Co-built production SaaS for PDF processing and AI-powered document workflows, c
 
 Co-designed the multimodal architecture (frozen CLIP/Whisper backbones with PEFT) and implemented a Forgery Signature Gate using SRM/DCT filters to capture GAN- and diffusion-model-based fingerprints, plus XAI modules for forensic transparency.
 
-<img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark" height="36" /> <img src="https://cdn.simpleicons.org/openai/FFFFFF" height="36" title="CLIP / Whisper" />
-
+<img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark" height="36" /> <img src="https://cdn.simpleicons.org/openai/FFFFFF" height="36" title="CLIP / Whisper" /> <img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark" height="36" />
 | Detail | Result |
 |:--|:--|
 | **Accuracy** | 99.34% (FakeAVCeleb) · 99.40% cross-dataset zero-shot |
