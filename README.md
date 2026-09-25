@@ -3,8 +3,7 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════
      HERO SECTION — Animated Waving Gradient Header
      ═══════════════════════════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,15:1a1a2e,40:6C63FF,70:00D9FF,100:0D1117&height=280&section=header&text=ANEEB%20AHMAD&fontSize=42&fontColor=FFFFFF&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20MERN%2C%20Next.js%20%26%20LiveKit%20%7C%20Published%20AI%20Researcher&descAlignY=52&descSize=15&descColor=C9D1D9" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=280&section=header&text=ANEEB%20AHMAD&fontSize=42&fontColor=FFFFFF" width="100%" alt="Header" />
 
 <br/>
 
